@@ -1,7 +1,5 @@
 ## 🌟 Sushil Joon | Cloud & DevOps Engineer | Generative AI Enthusiast 🌟
 
-![Header Image](https://source.unsplash.com/1600x400/?technology,cloud) <!-- Replace with a custom header image if desired -->
-
 Welcome to my GitHub! I'm Sushil, a passionate Cloud & DevOps Engineer with over **9 years of experience** in designing and implementing scalable, secure, and cost-efficient solutions. I specialize in **Cloud Architecture, DevOps Automation, and Generative AI** applications.
 
 ---
