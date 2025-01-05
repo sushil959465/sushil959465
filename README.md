@@ -1,4 +1,4 @@
-# 🌟 Sushil | Cloud & DevOps Engineer | Generative AI Enthusiast 🌟
+## 🌟 Sushil Joon | Cloud & DevOps Engineer | Generative AI Enthusiast 🌟
 
 ![Header Image](https://source.unsplash.com/1600x400/?technology,cloud) <!-- Replace with a custom header image if desired -->
 
